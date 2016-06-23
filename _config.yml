@@ -39,7 +39,7 @@ workshop_repo: "https://github.com/gvwilson/new-workshop-template"
 workshop_site: "https://gvwilson.github.io/new-workshop-template"
 
 # Start time in minutes (540 is 09:00 am)
-start_time: 540
+start_time: 780
 
 # Specify that things in the episodes collection should be output.
 collections:

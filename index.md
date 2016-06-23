@@ -7,9 +7,7 @@ The example used in this lesson is an excerpt from a database of research articl
 Even though the lesson was developed with librarians in mind, the concepts introduced
 should be applicable to other topics as well.
 
-The lesson materials are based on the [Library Carpentry OpenRefine for librarians lesson](https://data-lessons.github.io/library-openrefine/), which to the time of this
-writing is still being developed.
-
+The lesson materials are based on the [Library Carpentry OpenRefine for librarians lesson](https://data-lessons.github.io/library-openrefine/) (work in progress).
 > ## Prerequisites
 >
 > No particular skills are required to follow this lesson, although a general knowledge of
