@@ -3,10 +3,10 @@
 #------------------------------------------------------------
 
 # Domain for searches.
-domain: "https://data-lessons.github.io/library-openrefine"
+domain: "http://labs.timtom.ch/library-openrefine"
 
 # URL for repository.
-repo: "https://github.com/data-lessons/library-openrefine"
+repo: "https://github.com/timtomch/library-openrefine"
 
 # Root URL for lesson below domain.
 root: "/library-openrefine"
@@ -15,7 +15,7 @@ root: "/library-openrefine"
 title: "OpenRefine Lessons for Librarians"
 
 # Contact email address.
-email: gvwilson@software-carpentry.org
+email: tom@timtom.ch
 
 # What kind of thing is this ("workshop", "lesson")?
 kind: "lesson"
