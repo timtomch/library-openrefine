@@ -48,6 +48,6 @@ There are also general and specialist tutorials about using OpenRefine available
 * [OpenRefine News (monthly round up of new blog posts, tutorials and other information)](http://openrefine.org/blog.html)
 
 ### Downloading the data
-You need to download [doaj-article-sample.csv]({{ site.repo }}/data/doaj-article-sample.csv). This is a csv file. Make a note of the location you save the file.
+You need to download [doaj-article-sample.csv]({{ site.domain }}/data/doaj-article-sample.csv). This is a csv file. Make a note of the location you save the file.
 
 [template]: {{ site.workshop_repo }}

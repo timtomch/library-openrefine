@@ -23,7 +23,10 @@ There are several options for getting your data set into OpenRefine. You can upl
 * XML
 * Google Spreadsheet
 
-To import the data for the exercises below, run OpenRefine and:
+To import the data for the exercises below, you first need to download 
+[doaj-article-sample.csv]({{ site.domain }}/data/doaj-article-sample.csv). 
+This is a csv file. Make a note of the location you save the file.
+Then, run OpenRefine and:
 
 * Click 'Create Project'
 * Choose 'Get Data from this Computer'
