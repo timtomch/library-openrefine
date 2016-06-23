@@ -8,6 +8,7 @@ Even though the lesson was developed with librarians in mind, the concepts intro
 should be applicable to other topics as well.
 
 The lesson materials are based on the [Library Carpentry OpenRefine for librarians lesson](https://data-lessons.github.io/library-openrefine/) (work in progress).
+
 > ## Prerequisites
 >
 > No particular skills are required to follow this lesson, although a general knowledge of
