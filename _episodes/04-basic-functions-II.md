@@ -1,13 +1,24 @@
 ---
 title: "Basic OpenRefine functions II:"
-teaching: 0
-exercises: 0
+teaching: 20
+exercises: 20
 questions:
-- "FIXME"
+- "How do I edit my data based on filters and facets?"
+- "How do I use transformations to programmatically edit my data?"
+- "How do I use GREL, the General Refine Expression Language?"
+- "How do I save and reuse a set of operations for use in subsequent projects?"
+- "What are the data formats supported by OpenRefine and why should I care?"
 objectives:
-- "FIXME"
+- "Introduce common transformations"
+- "Introduce GREL, the General Refine Expression Language"
+- "Explain how to write one's own transformations using GREL"
+- "Explain how to use Undo and Redo to retrace ones' steps"
+- "Explain how to use Extract and Apply to reuse a set of operations"
+- "Introduce data formats"
+- "Introduce Boolean values and arrays, and how to run transformations based on them"
 keypoints:
-- "FIXME"
+- "You can alter data in OpenRefine based on specific instructions"
+- "You can expand the data editing functions that are built-in into OpenRefine by building your own"
 ---
 ## Transforming data
 ### Introducing Transformations

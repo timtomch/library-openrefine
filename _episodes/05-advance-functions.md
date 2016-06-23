@@ -1,16 +1,20 @@
 ---
 title: "Advanced OpenRefine functions"
-teaching: 0
-exercises: 0
+teaching: 20
+exercises: 10
 questions:
-- "FIXME"
+- "How do I fetch data from an Application Programming Interface (API) to be used in OpenRefine?"
+- "How do I reconcile my data by comparing it to authoritative datasets"
+- "How do I install extensions for OpenRefine"
 objectives:
-- "FIXME"
+- "Introduce how to use URLs to fetch data from the web based on what's in an OpenRefine project"
+- "Introduce how to parse JSON data returned by web services"
+- "Introduce how to use Reconciliation services"
+- "Introduce OpenRefine extensions"
 keypoints:
-- "OpenRefine uses 'Transformations' to manipulate data"
-- "OpenRefine Transformations are written in a language called GREL and are somewhat similar to Excel Formula"
-- "OpenRefine keeps a full history of the changes you've made to a data set and so allows you to undo or redo steps as you need"
-- "FIXME"
+- "OpenRefine can look up custom URLs to fetch data based on what's in an OpenRefine project"
+- "Such API calls can be custom built, or one can use existing Reconciliation services to enrich data"
+- "OpenRefine can be further enhanced by installing extensions"
 ---
 ## Looking up data from a URL
 OpenRefine can retrieve data from URLs. This can be used in various ways, including looking up additional information from a remote service, based on information in your OpenRefine data.
