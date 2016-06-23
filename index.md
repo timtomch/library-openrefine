@@ -1,17 +1,19 @@
 ---
 layout: lesson_homepage
 ---
-This lesson shows how to use the
-[Software Carpentry]({{ site.swc_site }}) and
-[Data Carpentry]({{ site.dc_site }}) lesson template.
-For guidelines on how to help improve our lessons and this template,
-please see [the contribution guidelines][contributing];
-for guidelines on how to set up your machine to preview changes locally,
-please see [the setup instructions](/setup/).
+This lesson is a short introduction to [OpenRefine](http://openrefine.org),
+a tool that is used to explore and "clean up" structured data.
+The example used in this lesson is an excerpt from a database of research articles.
+Even though the lesson was developed with librarians in mind, the concepts introduced
+should be applicable to other topics as well.
+
+The lesson materials are based on the [Library Carpentry OpenRefine for librarians lesson](https://data-lessons.github.io/library-openrefine/), which to the time of this
+writing is still being developed.
 
 > ## Prerequisites
 >
-> Use the `.prereq` style to specify prerequisites.
+> No particular skills are required to follow this lesson, although a general knowledge of
+> structured data (e.g. spreadsheets) is certainly useful.
 {: .prereq}
 
 [contributing]: {{ site.repo }}/blob/gh-pages/CONTRIBUTING.md
